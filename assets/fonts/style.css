@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'Druk Text Wide';
+        src: url('DrukTextWide-Medium.woff2') format('woff2'),
+        url('DrukTextWide-Medium.woff') format('woff'),
+        url('DrukTextWide-Medium.ttf') format('truetype'),
+        url('DrukTextWide-Medium.svg#DrukTextWide-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Druk Wide';
+    src: url('DrukWide-Bold.woff2') format('woff2'),
+        url('DrukWide-Bold.woff') format('woff'),
+        url('DrukWide-Bold.ttf') format('truetype'),
+        url('DrukWide-Bold.svg#DrukWide-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Reservation Wide';
+	src: url('Reservation Wide Bold.eot');
+    src: local('☺'), url('Reservation Wide Bold.woff') format('woff'), 
+    url('Reservation Wide Bold.ttf') format('truetype'), 
+    url('Reservation Wide Bold.svg') format('svg');
+	font-weight: bold;
+	font-style: bold;
+}
+
+@font-face {
+    font-family: 'Founders Grotesk Text';
+    src: url('FoundersGroteskText-Light.woff2') format('woff2'),
+        url('FoundersGroteskText-Light.woff') format('woff'),
+        url('FoundersGroteskText-Light.ttf') format('truetype'),
+        url('FoundersGroteskText-Light.svg#FoundersGroteskText-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Founders Grotesk Text';
+    src: url('FoundersGroteskText-Medium.woff2') format('woff2'),
+        url('FoundersGroteskText-Medium.woff') format('woff'),
+        url('FoundersGroteskText-Medium.ttf') format('truetype'),
+        url('FoundersGroteskText-Medium.svg#FoundersGroteskText-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Reservation Wide';
+    src: url('ReservationWide-Bold.woff2') format('woff2'),
+        url('ReservationWide-Bold.woff') format('woff'),
+        url('ReservationWide-Bold.ttf') format('truetype'),
+        url('ReservationWide-Bold.svg#ReservationWide-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
