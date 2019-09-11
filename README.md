@@ -1,1 +1,2 @@
-# uxsergey.github.io
+# sergeyxdesign.github.io
+# personal portfolio
