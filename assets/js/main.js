@@ -20,8 +20,7 @@ $(".collapsible-nav li").on("click", function(){
 	})
 
 
-  // initialize wow.js
-  new WOW().init();
+
 
   $(document).ready(function(){
 
@@ -49,7 +48,6 @@ $(".collapsible-nav li").on("click", function(){
   });
 
   $('.lazy').Lazy({
-	// your configuration goes here
 	scrollDirection: 'vertical',
 	effect: 'fadeIn',
 	visibleOnly: true,
